@@ -2,7 +2,7 @@
 
 Understanding the software tools that are preferred by Kubernetes developers and whether preference depends on the programming task at hand, is important for informing the future design and development of these tools. To help understand how people with different levels of development experience are using and prefer to use Kubernetes, we are currently performing a 2-minute [Kubernetes Tasks and Tools survey](https://forms.gle/CcXwjx1Tftkp7KAW9) that you can still take! The survey asks whether you are a beginner, intermediate, or expert Kubernetes developer and for your preference among three tool modalities: Command Line Interface (CLI), Graphical Console, and IDE, to examine whether your tool preference varies across three programming task types: CRUD, Debugging, and Monitoring.
 
-The responses are currently coming in! Thank you to all those who have already contributed to the survey. Our goal is to make the raw data results available for everyone once more responses are collected.
+The responses are currently coming in! Thank you to all those who have already contributed to the survey. Our goal is to make the raw data results open and available for everyone once more responses are collected.
 
 # The Research Gap
 
